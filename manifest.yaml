@@ -3,5 +3,7 @@ id: lax-379983
 leanVersion: "v4.33.0"
 mathlibVersion: "db584cd6d46c92f209a44c0f1c829460d327499d"
 title: "Feedback vertex and edge numbers"
-authors: []
+authors:
+  - name: "Jakub Balabán"
+  - name: "OpenAI Codex"
 bibEntries: []
